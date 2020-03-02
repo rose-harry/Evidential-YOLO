@@ -1,4 +1,4 @@
-# Evidential-YOLO
+# Evidential YOLO
 
 - Code base for my MSc dissertation which focused on building uncertainty aware object detectors
 - The motivation of the dissertation was to improve robustness of object detectors when dealing with out-of-distribution examples
