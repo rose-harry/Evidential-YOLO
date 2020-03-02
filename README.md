@@ -11,7 +11,7 @@
 ![Model](/images/rotations.png)
 
 <div>
-<img src="/images/birds.png)" width="100"/>
+<img src="/images/birds.png)" width=100, height = 200>
 </div>
 
 
