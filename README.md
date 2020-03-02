@@ -5,7 +5,7 @@
 -For example autonomous vehicles processing frames with intense sunlight or heavy rain
 - Implementation is done by modifying the popular YOLO framework to enhance detections with real-time uncertainty estimates.
 
-### The base code relies on the open source YAD2K: Yet Another Darknet 2 Keras - https://github.com/allanzelener/YAD2K
+### The code base relies on the open source YAD2K: Yet Another Darknet 2 Keras - https://github.com/allanzelener/YAD2K
 
 ## Proposed Model
 Modifying the final layer of the network, class logits are treater as evidence and using the ideas of subjective logic; the sum of normalized evidence plus an evidence term sum to one.
