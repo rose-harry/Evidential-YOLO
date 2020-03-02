@@ -8,7 +8,9 @@
 ### Implementation and all modifications are built on-top of the open source YAD2K: Yet Another Darknet 2 Keras - https://github.com/allanzelener/YAD2K
 
 ## Proposed Model
-Modifying the final layer of the network, class logits are treater as evidence and using the ideas of subjective logic; the sum of normalized evidence plus an evidence term sum to one.
+- Replace point estimates of normalised class probabilties using logits with an alternative model
+- Take ideas from subjective logic such that the sum of probabilties and uncertainty add to one
+- Allows one to quantify epistemic uncertainty during inference
 
 ![Model](/images/model.png)
 
