@@ -5,12 +5,13 @@
 
 ![Model](/images/model.png)
 
+### Out-of-distribution Examples
 <div>
-<title>Out Of Distribution Examples</title>
 <img src="/images/cars_rain.png" title = "Rain" width=750>
 <img src="/images/cars_sun.png" width=750>
 </div>
 
+### Rotation Invariance
 <div>
 <img src="/images/rotations.png" width=750>
 </div>
