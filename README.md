@@ -8,7 +8,7 @@
 ### Implementation and all modifications are built on-top of the open source YAD2K: Yet Another Darknet 2 Keras - https://github.com/allanzelener/YAD2K
 
 ## Proposed Model
-- Replace point estimates of normalised class probabilties using logits with an alternative model
+- Replace point estimates of normalised class probabilties with an alternative model
 - Take ideas from subjective logic such that the sum of probabilties and uncertainty add to one
 - Allows one to quantify epistemic uncertainty during inference
 
