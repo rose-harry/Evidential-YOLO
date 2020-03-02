@@ -6,7 +6,7 @@
 ![Model](/images/model.png)
 
 <div>
-<img src="/images/cars_rain.png" width=200>
+<img src="/images/cars_rain.png" width=500>
 </div>
 
 ![Model](/images/cars_sun.png)
