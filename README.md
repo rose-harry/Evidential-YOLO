@@ -1,8 +1,8 @@
 # Evidential-YOLO
 
 - Code base for my MSc dissertation which focused on building uncertainty aware object detectors
-- The motivation for the dissertation was to improve the robustness of object detectors when dealing with out-of-distribution examples
--For example autonomous vehicles processing frames with intense sunlight or heavy rain
+- The motivation of the dissertation was to improve robustness of object detectors when dealing with out-of-distribution examples
+- For example autonomous vehicles processing frames with intense sunlight or heavy rain
 - Implementation is done by modifying the popular YOLO framework to enhance detections with real-time uncertainty estimates.
 
 ### Implementation and all modifications are built on-top of the open source YAD2K: Yet Another Darknet 2 Keras - https://github.com/allanzelener/YAD2K
