@@ -20,7 +20,7 @@
 </div>
 
 #### This mapping applied to class logits defines EDL-YOLO
-![Model]("/images/model.png")
+![Model](/images/model.png)
 
 ## Comparing EDL-YOLO vs. YOLO v2.
 ### Out-of-distribution Examples
