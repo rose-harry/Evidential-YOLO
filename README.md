@@ -10,15 +10,19 @@
 <img src="/images/cars_sun.png" width=750>
 </div>
 
-![Model](/images/rotations.png)
+<div>
+<img src="/images/rotations.png" width=750>
+</div>
+
 
 <div>
 <img src="/images/birds.png" width=400>
 </div>
 
 
-![Model](/images/edl_loss_fcn.png)
-![Model](/images/training_curves.png)
-
+<div>
+<img src="/images/edl_loss_fcn.png" width=750>
+<img src="/images/training_curves.png" width=750>
+</div>
 
 
