@@ -2,9 +2,9 @@
 
 - Code base for my MSc dissertation which focused on building uncertainty aware object detectors. The motivation for the dissertation was to improve the robustness of object detectors when dealing with out-of-distribution examples, for example autonomous vehicles processing frames with intense sunlight or heavy rain. 
 
-- The implementation is done by modifying the popular YOLO framework to enhance detections with real-time uncertainty estimates. The base model relies heavily on YAD2K: Yet Another Darknet 2 Keras.
+- The implementation is done by modifying the popular YOLO framework to enhance detections with real-time uncertainty estimates.
 
-## https://github.com/allanzelener/YAD2K
+### The base model relies heavily on YAD2K: Yet Another Darknet 2 Keras - https://github.com/allanzelener/YAD2K
 
 
 ## Proposed Model
