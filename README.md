@@ -15,11 +15,6 @@
 <img src="/images/rotations.png" width=750>
 </div>
 
-
-<div>
-<img src="/images/birds.png" width=400>
-</div>
-
 ## Modified Loss Function
 <div>
 <img src="/images/edl_loss_fcn.png" width=750>
