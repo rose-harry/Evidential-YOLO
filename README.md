@@ -12,14 +12,6 @@
 - Take ideas from subjective logic such that the sum of probabilties and uncertainty add to one
 - Allows one to quantify epistemic uncertainty during inference
 
-More formally, defining the Dirichlet strength S = &sum;<sub>k</sub> e<sub>k</sub> + 1, we see given evidence e<sub>k</sub> &ge; 0 for the kth class, the belief mass b<sub>k</sub> and uncertainty u are computed by
-
-<a href="https://www.codecogs.com/eqnedit.php?latex=$$b_k&space;=&space;\frac{e_k}{S}&space;\text{&space;and&space;}&space;u&space;=&space;\frac{K}{S}.$$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$$b_k&space;=&space;\frac{e_k}{S}&space;\text{&space;and&space;}&space;u&space;=&space;\frac{K}{S}.$$" title="$$b_k = \frac{e_k}{S} \text{ and } u = \frac{K}{S}.$$" /></a>
-
-Such that all K+1 parameters are non-negative and are additive, i.e., 
-
-<a href="https://www.codecogs.com/eqnedit.php?latex=$$u&space;&plus;&space;\sum_{k=1}^K&space;b_k&space;=&space;1.&space;$$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$$u&space;&plus;&space;\sum_{k=1}^K&space;b_k&space;=&space;1.&space;$$" title="$$u + \sum_{k=1}^K b_k = 1. $$" /></a>
-
 - For each object classification, treat logits as evidence e such that e<sub>k</sub> is generated evidence for class k.
 
 ![Model](/images/model.png)
