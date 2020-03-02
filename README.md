@@ -5,8 +5,10 @@
 
 ![Model](/images/model.png)
 
+<div>
+<img src="/images/cars_rain.png" width=200>
+</div>
 
-![Model](/images/cars_rain.png)
 ![Model](/images/cars_sun.png)
 ![Model](/images/rotations.png)
 
